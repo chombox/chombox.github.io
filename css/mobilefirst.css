@@ -97,6 +97,8 @@ body {
     background-size: cover;
 }
 
+
+
 /*#js-rotating {*/
     /*/!* international orange - aerospace *!/*/
     /*color: #FF4F00;*/
@@ -429,4 +431,18 @@ ul.filter a:hover, ul.filter a.active, ul.filter a:focus {
 }
 .project-info p strong {
     color: #333;
+}
+
+/* ====== Thank You ====== */
+#thankyou {
+    position: relative;
+    width: 100%;
+    padding: 0;
+    height: 100%;
+    background: url("../images/thankyou_bg.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: #fff;
 }
