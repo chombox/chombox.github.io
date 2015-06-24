@@ -446,3 +446,79 @@ ul.filter a:hover, ul.filter a.active, ul.filter a:focus {
     background-size: cover;
     color: #fff;
 }
+
+/* ====== Coming Soon ====== */
+#coffee {
+    position: relative;
+    width: 100%;
+    padding: 0;
+    height: 100%;
+    background: url("../images/coffee_bg.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: #000;
+    font-family: 'proximanova-bold', sans-serif;
+}
+
+#health, #learning, #housing, #about {
+    position: relative;
+    width: 100%;
+    padding: 0;
+    height: 100%;
+    background: linear-gradient( rgba(0,0,0, 0.60), rgba(0,0,0, 0.60) ), url("../images/health_bg.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: #fff;
+    font-family: 'proximanova-bold', sans-serif;
+}
+
+
+#coffee h1, #health h1, #learning h1, #housing h1, #about h1 {
+    font-size: 54px;
+}
+
+#coffee h1 {
+    text-shadow: 1px 1px 2px #fff;
+}
+
+#coffee .lead, #health .lead, #learning .lead, #housing .lead, #about .lead {
+    margin: 40px 0 50px;
+    font-size: 28px;
+}
+
+#coffee .lead {
+    text-shadow: 1px 1px 2px #fff;
+}
+
+@media (max-width: 767px) {
+    #coffee, #health, #learning, #housing, #about {
+        padding: 30px 0;
+    }
+}
+#coffee .is-countdown {
+    /*margin-top: 50px;*/
+    text-shadow: 1px 1px 2px #fff;
+}
+.countdown-row {
+    display: block;
+    text-align: center;
+}
+.countdown-section {
+    display: inline-block;
+    margin: 0 2px;
+    height: 70px;
+    width: 70px;
+    border-radius: 70px;
+    line-height: 70px;
+    text-align: center;
+    border: 1px solid white;
+    font-size: 24px;
+}
+.countdown-period {
+    display: block;
+    font-size: 16px;
+}
