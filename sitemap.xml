@@ -1,6 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>http://www.chombox.com/</loc>
+        <lastmod>2015-06-25T00:23:37+00:00</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chombox.com/health.html</loc>
+        <lastmod>2015-06-25T00:23:37+00:00</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chombox.com/learn.html</loc>
+        <lastmod>2015-06-25T00:23:37+00:00</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chombox.com/coffee.html</loc>
+        <lastmod>2015-06-25T00:23:37+00:00</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chombox.com/live.html</loc>
+        <lastmod>2015-06-25T00:23:37+00:00</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chombox.com/ajax/project1.html</loc>
+        <lastmod>2015-06-25T00:23:37+00:00</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chombox.com/ajax/project2.html</loc>
+        <lastmod>2015-06-25T00:23:37+00:00</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chombox.com/ajax/project3.html</loc>
+        <lastmod>2015-06-25T00:23:37+00:00</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chombox.com/ajax/project4.html</loc>
+        <lastmod>2015-06-25T00:23:37+00:00</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chombox.com/ajax/project5.html</loc>
+        <lastmod>2015-06-25T00:23:37+00:00</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chombox.com/ajax/project6.html</loc>
+        <lastmod>2015-06-25T00:23:37+00:00</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chombox.com/contact.html</loc>
+        <lastmod>2015-06-25T00:23:37+00:00</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>http://www.chombox.com/aboutus.html</loc>
+        <lastmod>2015-06-25T00:23:37+00:00</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
     <url>
         <loc>http://www.chombox.com/index.html</loc>
+        <lastmod>2015-06-25T00:23:37+00:00</lastmod>
+        <changefreq>daily</changefreq>
     </url>
 </urlset>
