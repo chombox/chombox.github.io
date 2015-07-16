@@ -10,7 +10,7 @@ Last change:    01/04/2014
 /* ===== Coming Soon Countdown ===== */
 
 $(function () {
-    var austDay = new Date(2015,7-1,15);
+    var austDay = new Date(2015,7-1,31);
     //austDay = new Date(austDay.getFullYear() + 1, 1 - 1, 26);
     $('#countdown').countdown({until: austDay});
     $('#year').text(austDay.getFullYear() + 1);
